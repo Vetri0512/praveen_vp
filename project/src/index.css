@@ -1,0 +1,11 @@
+body{
+margin: 20px;
+background-color:#fff4e2 ;
+height: calc(100vh -40px);
+}
+
+#root{
+    background-color:#fffcf7 ;
+    background-color:hwb(106 1% 87%) ;
+    border-radius: 30px;
+}
